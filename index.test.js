@@ -1,4 +1,4 @@
-const { hello } = require("./index");
+import { hello } from "./index";
 
 describe("hello", () => {
   it("should return the correct greeting", function () {

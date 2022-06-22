@@ -1,4 +1,3 @@
-function hello(name) {
+export function hello(name) {
   return `Hello ${name}`;
 }
-exports.hello = hello;

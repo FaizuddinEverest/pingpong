@@ -1,6 +1,6 @@
 # EverestEngineering Internal Workshop
 
-This is a "starter template" repo with with Jest, Prettier and Babel configured and ready to go. To get started,
+This is a "starter template" repo with Jest, Prettier and Babel configured and ready to go. To get started,
 
 ```shell
 git clone https://github.com/FaizuddinEverest/pingpong.git

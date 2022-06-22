@@ -9,6 +9,13 @@ npm i
 npm test
 ```
 
+Also includes `babel-node`, so run the app (not for production) with:
+```shell
+npx babel-node index.js
+```
+
+Read more about Babel and Babel Node here: [https://babeljs.io/docs/en/babel-node]
+
 ### Workshop includes
 - Test Driven Design & Development (TDD)
 - Pair programming, Ping-pong pair programming, and more!

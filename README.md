@@ -4,6 +4,7 @@ This is a "starter template" repo with Jest, Prettier and Babel configured and r
 
 ```shell
 git clone https://github.com/FaizuddinEverest/pingpong.git
+cd pingpong
 git remote remove origin
 npm i
 npm test
